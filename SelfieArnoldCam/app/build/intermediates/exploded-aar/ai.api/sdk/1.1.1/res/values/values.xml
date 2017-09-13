@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/xvir/Projects/apiai-solution/api-ai-android-sdk/ailib/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">AILib</string>
+</resources>

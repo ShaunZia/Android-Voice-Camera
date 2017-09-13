@@ -1,0 +1,7 @@
+C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\classes\debug
+C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-c84db13c07fd006923cff5117f9fac4520b4fa2f.jar
+C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\pre-dexed\debug\classes-de30b19c7e7eaba89c5a0afbabbec7c83d351214.jar
+C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-7110fa6bceef056ac2d8b1f2eab6307f93e76510.jar
+C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\pre-dexed\debug\gson-2.2.4-29dd13c680f01ddc9235b0942820cf944ec20e6f.jar
+C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\pre-dexed\debug\commons-io-2.4-5125d0b97f6705a42e81688801f52473a51108fd.jar
+C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\pre-dexed\debug\classes-c60a4f3ac9bcb1321b41089cf64d5140bd77cd50.jar

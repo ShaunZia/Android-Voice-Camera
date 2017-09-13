@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\pre-dexed\debug\classes-c60a4f3ac9bcb1321b41089cf64d5140bd77cd50.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shaun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Android Studio Projects\SelfieKimCam\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-c84db13c07fd006923cff5117f9fac4520b4fa2f.jar" />
+    </item>
+    <item
+        jar="C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-7110fa6bceef056ac2d8b1f2eab6307f93e76510.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\SelfieKimCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Android Studio Projects\SelfieKimCam\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-16ba3396873c52c348b1826b0c8f6cc67a21cddc.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\SelfieKimCam\app\build\intermediates\exploded-aar\ai.api\sdk\1.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a7902faaae5355a118848f69f1433cba5cd50ec">
+        <dex dex="C:\Android Studio Projects\SelfieKimCam\app\build\intermediates\pre-dexed\debug\classes-32bbd1d475e52df7cf40b8dc4f4c68c08306df93.jar" />
+    </item>
+    <item
+        jar="C:\Android Studio Projects\SelfieKimCam\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Android Studio Projects\SelfieKimCam\app\build\intermediates\pre-dexed\debug\classes-3e86e7f42adfa57df4a6a1fc0f0c7b561381c3a8.jar" />
+    </item>
+    <item
+        jar="C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\exploded-aar\ai.api\sdk\1.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a7902faaae5355a118848f69f1433cba5cd50ec">
+        <dex dex="C:\AndroidSpeechRecognition\SelfieArnoldCam\app\build\intermediates\pre-dexed\debug\classes-de30b19c7e7eaba89c5a0afbabbec7c83d351214.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shaun\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Android Studio Projects\SelfieKimCam\app\build\intermediates\pre-dexed\debug\commons-io-2.4-5125d0b97f6705a42e81688801f52473a51108fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shaun\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Android Studio Projects\SelfieKimCam\app\build\intermediates\pre-dexed\debug\gson-2.2.4-29dd13c680f01ddc9235b0942820cf944ec20e6f.jar" />
+    </item>
+
+</items>
